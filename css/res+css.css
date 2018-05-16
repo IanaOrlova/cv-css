@@ -1,0 +1,18 @@
+body{
+    background-color: lightgrey;
+}
+strong{
+    font-size: 20px;
+}
+ul{
+   font-style: italic;
+}
+img{
+    margin: 10px 20px 10px 135px;
+    position: absolute;
+    top: 5px;
+}
+
+.illumination:hover{
+ color: crimson ;
+}
